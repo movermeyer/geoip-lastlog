@@ -4,15 +4,15 @@ geoip-lastlog
 
 Geolocation for motd / ssh last login based on lastlog
 
-.. image:: https://pypip.in/download/geoip_lastlog/badge.png
+.. image:: https://img.shields.io/pypi/dm/geoip_lastlog.svg
     :target: https://pypi.python.org/pypi/geoip-lastlog/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/geoip_lastlog/badge.png
+.. image:: https://img.shields.io/pypi/v/geoip_lastlog.svg
     :target: https://pypi.python.org/pypi/geoip-lastlog/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/geoip_lastlog/badge.png
+.. image:: https://img.shields.io/pypi/l/geoip_lastlog.svg
     :target: https://pypi.python.org/pypi/geoip-lastlog/
     :alt: License
 
